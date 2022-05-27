@@ -23,7 +23,6 @@ function setup() {
 
 
 function draw() {
-  rectMode(CENTER);
   background(0);
 
   //Atualizar motor de física
